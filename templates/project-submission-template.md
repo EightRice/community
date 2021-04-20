@@ -19,7 +19,8 @@
 <!--How many users do you have right now?-->
 
 ## Github repo
-<!--Attach a link to your GitHub repo if it's OSS-->
+<!--Attach a link to your GitHub repo - open source is required - please make sure your repo has a license file and is licensed using MIT open source license! -->
+>>>>>>> master
 
 ## Website
 <!--Link your website if available-->
@@ -35,13 +36,13 @@
 ### Team members  
 
 ## How the community can engage
-GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
-Email:  
-Slack:  
-Twitter:  
-Discord:  
-Telegram:  
-WeChat:  
+* GitHub Discussion: <!--Start a discussion with the community here: https://github.com/ipfs/community/discussions/new and attach the link!-->  
+* Email:  
+* Slack:  
+* Twitter:  
+* Discord:  
+* Telegram:  
+* WeChat:  
 
 ## How to Contribute
 <!--How can the community contribute to your project?-->
